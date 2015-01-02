@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1366891581 source:c:\users\dustin\documents\my dropbox\dk share\n6325157\card.cpp
+	"card.h"
+	<iostream>
+
+1366892451 c:\users\dustin\documents\my dropbox\dk share\n6325157\card.h
+	<string>
+
+1366889405 source:c:\users\dustin\documents\my dropbox\dk share\n6325157\cardcomparer.cpp
+	"cardcomparer.h"
+	"card.h"
+
+1366889405 c:\users\dustin\documents\my dropbox\dk share\n6325157\cardcomparer.h
+	"card.h"
+
+1366892451 source:c:\users\dustin\documents\my dropbox\dk share\n6325157\deck.cpp
+	"deck.h"
+	"card.h"
+	"random.h"
+	<iostream>
+	<iomanip>
+
+1366889405 c:\users\dustin\documents\my dropbox\dk share\n6325157\deck.h
+	"card.h"
+	"random.h"
+
+1366889405 c:\users\dustin\documents\my dropbox\dk share\n6325157\random.h
+
+1366889405 source:c:\users\dustin\documents\my dropbox\dk share\n6325157\handcomparer.cpp
+	"handcomparer.h"
+	"hand.h"
+
+1366889405 c:\users\dustin\documents\my dropbox\dk share\n6325157\handcomparer.h
+	"hand.h"
+
+1366901089 c:\users\dustin\documents\my dropbox\dk share\n6325157\hand.h
+	"card.h"
+	<vector>
+
+1366889405 source:c:\users\dustin\documents\my dropbox\dk share\n6325157\pokereval.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<algorithm>
+	"deck.h"
+	"card.h"
+	"hand.h"
+	"handcomparer.h"
+
+1366889405 source:c:\users\dustin\documents\my dropbox\dk share\n6325157\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1366968573 source:c:\users\dustin\documents\my dropbox\dk share\n6325157\hand.cpp
+	"hand.h"
+	"card.h"
+	"cardcomparer.h"
+	<vector>
+	<algorithm>
+	<string>
+	<math.h>
+	<sstream>
+	<iostream>
+
